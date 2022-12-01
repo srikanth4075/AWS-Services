@@ -3,22 +3,22 @@
 ## Helpful links:
 https://aws.amazon.com/blogs/storage/enabling-user-self-service-key-management-with-aws-transfer-family-and-aws-lambda/
 
-Highlights:
+## Highlights:
 
-Serves as sftp service to companies to share data with business partners or vendors.
+**Serves as sftp service to companies to share data with business partners or vendors.**
 
-Authentication:
+## Authentication:
 Generate the public key using (ssh-keygen -b 4096 -t rsa)
 When requested passpharse just press enter twice
 after this there will be two files generated in default .ssh directory
 Public key file: ~/.ssh/id_rsa.pub 
 Private key file: ~/.ssh/id_rsa
 
-Creating a user in aws transfer console:
+## Creating a user in aws transfer console:
 create a user in aws transfer console and select role that grants permissions to s3 buckets
 in the ssh key section input the above public key file i.e. ~/.ssh/id_rsa.pub 
 
-Making the connection using aws transfer:
+## Making the connection using aws transfer:
 Get the endpoint from aws transfer console
 For the username,input the username that was created above 
 leave password blank
