@@ -1,7 +1,7 @@
 # AWS TRANSFER
 
 ## Helpful links:
-https://aws.amazon.com/blogs/storage/enabling-user-self-service-key-management-with-aws-transfer-family-and-aws-lambda/
+[Enabling user self-service key management with AWS Transfer Family and AWS Lambda](https://aws.amazon.com/blogs/storage/enabling-user-self-service-key-management-with-aws-transfer-family-and-aws-lambda/)
 
 ## Highlights:
 
