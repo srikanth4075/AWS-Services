@@ -1,4 +1,4 @@
-# AWS TRANSFER:
+# AWS TRANSFER
 
 ## Helpful links:
 https://aws.amazon.com/blogs/storage/enabling-user-self-service-key-management-with-aws-transfer-family-and-aws-lambda/
@@ -25,7 +25,7 @@ Serves as sftp service to companies to share data with business partners or vend
   - ssh private key select the above private key file i.e. ~/.ssh/id_rsa
 
 
-  <img width="507" alt="Screen Shot 2022-11-30 at 22 12 15" src="https://user-images.githubusercontent.com/46095027/204979217-9cc997f5-b5ac-42d0-ae50-0560fde32ab7.png">
+    <img width="507" alt="Screen Shot 2022-11-30 at 22 12 15" src="https://user-images.githubusercontent.com/46095027/204979217-9cc997f5-b5ac-42d0-ae50-0560fde32ab7.png">
 
 
 
